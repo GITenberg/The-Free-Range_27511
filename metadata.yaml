@@ -1,0 +1,36 @@
+_repo: The-Free-Range_27511
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Duer, Douglas
+    birthdate: &id001 1887
+    deathdate: 1964
+    gutenberg_agent_id: '8878'
+    url: http://www.gutenberg.org/2009/agents/8878
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sullivan, Francis William
+    aliases:
+    - Williams, Frank
+    - Lawrence, Elwell
+    birthdate: *id001
+    gutenberg_agent_id: '32733'
+    url: http://www.gutenberg.org/2009/agents/32733
+description: ''
+gutenberg_issued: '2008-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Ranchers -- Fiction'
+- !lcc 'PS'
+title: The Free Range
+url: http://www.gutenberg.org/ebooks/27511
